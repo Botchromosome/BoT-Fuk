@@ -1,4 +1,4 @@
-///----------( Created By Denis Putra )----------\\\
+///----------( Created By Denis ChM )----------\\\
 
 /**
 * Note:
@@ -946,7 +946,7 @@ reply('http://youtube.com/dcodedenpa')
 			num = await fetchJson(`https://api.telnyx.com/anonymous/v2/number_lookup/${senderNumber}`, {method: 'get'})
        menu = `┌───「 \`\`\`${NamaBot}\`\`\` 」
 │
-├ _Creator : @${dtod.split('@')[0]}_
+├ _Creator : @${6281804832728}_
 ├ _Battery : ${baterai.battery}_
 ├ _Mode : ${publik ? 'Public' : 'Self'}_
 ├ _Total Hit : ${cmhit.length}_
@@ -954,9 +954,9 @@ reply('http://youtube.com/dcodedenpa')
 │
 ├───「 \`\`\`INFO BOT\`\`\` 」
 │
-├ _Nama Bot : ${NamaBot}_
-├ _Nama Owner : ${NamaOwner}_
-├ _Nomor Owner : @${otod.split('@')[0]}_
+├ _Nama Bot : ${BoT-Chromosomr}_
+├ _Nama Owner : ${AjurOwn}_
+├ _Nomor Owner : @${6281804832728}_
 ├ _Auto Composing : ${autocomposing}_
 ├ _Auto Recording : ${autorecording}_
 │
